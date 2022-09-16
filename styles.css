@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    width: 600px;
+    margin: 10px auto;
+    justify-content: space-around;
+    background: green;
+    text-align: center;
+    border-bottom: 30px solid blue;
+    
+}
+
+.image {
+    width: 200px;
+    padding: 20px;
+}
